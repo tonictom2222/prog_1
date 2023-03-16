@@ -1,0 +1,56 @@
+table, td, th{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+img{
+  width: 25%;
+  height: 25%;
+}
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+    margin: 0;
+    padding: 0;
+  }
+  ul, ol {
+    list-style: none;
+  }
+  
+  header {
+    background-color: #f2c94c;
+    color: #fff;
+    text-align: center;
+    padding: 2rem 0;
+  }
+  main {
+    margin: 0 auto;
+    padding: 2rem;
+  }
+  section {
+    margin-top: 2rem;
+  }
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  li {
+    margin-bottom: 0.5rem;
+  }
+  a:link, a:visited {
+    color: white;
+  }
+  a:hover {
+    color:#f2c94c
+  }
+  .kivetel:hover{
+  color:black
+  }
+
+#elkeszites {
+  margin-bottom: 5%;
+}

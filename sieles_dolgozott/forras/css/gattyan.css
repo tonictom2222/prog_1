@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    background-color: #f9e4c9;
+    color: #522d27;
+}
+#banner{
+    height: 400px;
+    background-image: url(../img/sieles.jpg);
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: bottom ;
+}
+#tartalom{
+    width: 800px;
+    background-position-x: center;
+}
+hr{
+    border-width: 10px;
+    border-color: #70423a;
+    border-top: 0;
+}

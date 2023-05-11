@@ -1,0 +1,6 @@
+szoveg=input('Kérek egy többszavas szöveget: ')
+szokoz=szoveg.replace(' ', '')
+szokoz2=' '.join(szoveg.split())
+print(szoveg[::-1])
+print(szokoz)
+print(szokoz2)
